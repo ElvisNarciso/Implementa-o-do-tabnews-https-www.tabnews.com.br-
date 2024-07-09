@@ -1,1 +1,1 @@
-# Implementa-o-do-tabnews-https-www.tabnews.com.br-
+# Implementa-o-clone-tabnews-https-www.tabnews.com.br-
